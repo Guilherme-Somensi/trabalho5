@@ -1,0 +1,4 @@
+CREATE TABLE `exec8`.`voto` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `voto` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`id`));
