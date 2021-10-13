@@ -6,4 +6,3 @@ CREATE TABLE `exec1`.`enderecos` (
   `uf` VARCHAR(45) NOT NULL,
   `cep` NVARCHAR(8) NOT NULL,
   PRIMARY KEY (`código`));
-.
